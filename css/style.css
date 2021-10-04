@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(112, 167, 233);
+    color:white;
+}
+
+
+/* voorbeeld media query voor mobiel */
+@media screen and (max-width: 550px) {
+    body {
+        background-color: #375e80;
+    }
+}
